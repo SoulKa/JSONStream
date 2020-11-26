@@ -21,12 +21,14 @@
     "through": ">=2.2.7 <3"
   },
   "devDependencies": {
-    "it-is": "~1",
+    "@types/node": "^14.14.10",
+    "@types/through": "0.0.30",
     "assertions": "~2.2.2",
-    "render": "~0.1.1",
-    "trees": "~0.0.3",
     "event-stream": "~0.7.0",
-    "tape": "~2.12.3"
+    "it-is": "~1",
+    "render": "~0.1.1",
+    "tape": "~2.12.3",
+    "trees": "~0.0.3"
   },
   "bin": "./bin.js",
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)",
