@@ -17,12 +17,12 @@
     "parsing"
   ],
   "dependencies": {
+    "@types/node": "^14.14.10",
+    "@types/through": "0.0.30",
     "jsonparse": "^1.2.0",
     "through": ">=2.2.7 <3"
   },
   "devDependencies": {
-    "@types/node": "^14.14.10",
-    "@types/through": "0.0.30",
     "assertions": "~2.2.2",
     "event-stream": "~0.7.0",
     "it-is": "~1",
